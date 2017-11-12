@@ -1,13 +1,10 @@
-/* HEADER */
 #header-nav {
- /*   background-color: #f6b319;  */
     background-color: lightgray; 
     border-radius: 0; /*removes rounded corners" */
     border: 2px solid black;
 }
 .navbar-brand h1 {
     font-family: 'Lora', serif;
-   /* font-size: 1.5em; */
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
     margin-top: 0;
@@ -48,5 +45,5 @@ li p {
 #main-content {
     background-color: lightgray;
     margin: 30px 10px 10px 10px;
-    padding: 0 20px 10px 20px;   */
+    padding: 0 20px 10px 20px;
 }
